@@ -44,9 +44,6 @@
 <p dir="auto"> 
 <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" style="max-width: 100%;"  width="40" height="40"/> </a> 
-</p>
-
-
 <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" style="max-width: 100%;"  width="40" height="40"/> </a> 
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" style="max-width: 100%;"  width="40" height="40"/> </a> 
