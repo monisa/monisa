@@ -4,4 +4,7 @@
 <p dir="auto"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
 <img src="https://angular.io/assets/images/logos/angular/angular.svg"  alt="angular" style="max-width: 100%;padding: 10%;" width="50" height="50"/> </a> 
+<a href="https://angular.io" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" style="max-width: 100%;padding: 10%"  width="50" height="50"/> </a> 
+
 </p>
